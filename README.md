@@ -48,7 +48,8 @@
 
 ##### Systematic Step-by-Step Process
 
--  1) **Import Libraries and Load Data**: Use Python libraries such as pandas, numpy for data handling; scikit-learn for modeling.
+-  1) **Import Libraries and Load Data**:
+   - Use Python libraries such as pandas, numpy for data handling; scikit-learn for modeling.
 
 -  2) **Data Exploration and Cleaning**:
   - Inspect the dataset (.info(), .describe()).
@@ -59,7 +60,7 @@
   - Normalize or scale features to help models converge faster.
   - Explore feature selection to reduce dimensionality.
 
-- 4)** Modeling**:
+- 4) ** Modeling**:
   - Train baseline models (Decision Tree, Random Forest, SVM, ANN).
   - Tune hyperparameters using grid search or cross-validation.
 
