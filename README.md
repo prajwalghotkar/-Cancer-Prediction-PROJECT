@@ -89,4 +89,4 @@
 - **Tools**: Jupyter Notebook, VS Code
 - **Data**: data.csv containing tumor features and diagnosis labels
 
-##### By Prajwal
+
